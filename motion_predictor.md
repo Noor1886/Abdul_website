@@ -106,3 +106,5 @@ The performance of the trained model will be evaluated using metrics such as acc
 We have successfully followed the machine learning pipeline to develop a model for estimating the ’command actions’ for the car-like robot model. The trained model is computationally reasonable by decreasing the number of features considered and a proper generalization has been shown as indicated by the results.
 
 ---
+
+<a href="https://github.com/Noor1886/Motion-Predictor/tree/main">GitHub Repo</a>
