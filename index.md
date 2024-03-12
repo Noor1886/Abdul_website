@@ -5,7 +5,7 @@
 ## Classical and Neural-Net based Computer Vision
 
 [Lane Detection and Turn Prediction](/Lane_detect)
-<img src="images/robot_dog_thumbnail.jpeg?raw=true"/>
+<img src="images/lane_detect_thumbnail.jpeg?raw=true"/>
 
 ---
 [Cancer Detection using CNN]()
@@ -17,7 +17,11 @@
 ## Robotics and NLP
 
 - [Sentiment Analysis using NLTK and Transformers](http://example.com/)
+
 - [Robot Dog Simulation](http://example.com/)
+  <img src="images/robot_dog_thumbnail.jpeg?raw=true"/>
+
+
 - [Motion Predictor using Machine Learning](http://example.com/)
 
 ---
