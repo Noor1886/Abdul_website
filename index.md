@@ -17,12 +17,15 @@
 ## Robotics and NLP
 
 - [Sentiment Analysis using NLTK and Transformers](https://nbviewer.org/github/Noor1886/Sentiment-Analysis-NLP/blob/main/Sentiment_Analysis_Transformers.ipynb)
+  <img src="images/robot_dog_thumbnail.jpeg?raw=true"/>
+
 
 - [Robot Dog Simulation](/robo_dog.md)
   <img src="images/robot_dog_thumbnail.jpeg?raw=true"/>
 
 
 - [Motion Predictor using Machine Learning](/motion_predictor.md)
+  <img src="images/motion_planning_thumbnail.jpeg?raw=true"/>
 
 ---
 
