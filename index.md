@@ -8,7 +8,7 @@
 <img src="images/lane_detect_thumbnail.jpeg?raw=true"/>
 
 ---
-[Cancer Detection using CNN]()
+[Cancer Detection using CNN](https://nbviewer.org/github/Noor1886/Skin-cancer-detection/blob/main/Detection_of_Malignant_Skin_Cancer_using_a_CNN.ipynb)
 <a href="images/CT_gastric_cancer.gif" target="_blank">
   <img src="images/CT_gastric_cancer.gif" alt="CT Gastric Cancer" width="200" height="150">
 </a>
