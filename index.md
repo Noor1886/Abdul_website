@@ -4,7 +4,7 @@
 
 ### Classical and Neural-Net based Computer Vision
 
-[Project 1 Title](/sample_page)
+[Lane Detection and Turn Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
