@@ -4,7 +4,7 @@
 
 ### Classical and Neural-Net based Computer Vision
 
-[Lane Detection and Turn Prediction](/sample_page)
+[Lane Detection and Turn Prediction](/Lane_detect)
 
 
 [Cancer Detection using CNN]()
