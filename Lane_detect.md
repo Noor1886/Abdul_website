@@ -17,7 +17,7 @@ tection:
 
 ## Results
 ### Computing results with geometric Computer Vision
-![alt](https://github.com/Noor1886/Lane-detect/blob/master/Results/lane_detection/lane_result_1.gif)
+    <img src="images/lane_detect_thumbnail.jpeg?raw=true"/>
 
 ### Turn Prediction along with detection
 ![alt](https://github.com/Noor1886/Lane-detect/blob/master/Results/lane_detection/lane_result_2.gif)
