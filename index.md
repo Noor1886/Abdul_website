@@ -22,7 +22,7 @@
   <img src="images/robot_dog_thumbnail.jpeg?raw=true"/>
 
 
-- [Motion Predictor using Machine Learning](http://example.com/)
+- [Motion Predictor using Machine Learning](/motion_predictor.md)
 
 ---
 
