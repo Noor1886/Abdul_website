@@ -68,4 +68,4 @@ Since Trajectory following could not be implemented so these buttons are redunda
 <img src="https://github.com/Noor1886/Robot-Dog/blob/main/robodog.gif?raw=true"/>
 
 
-https://github.com/Noor1886/Robot-Dog
+<a href="https://github.com/Noor1886/Robot-Dog">GitHub Repo</a>
