@@ -65,4 +65,4 @@ Since Trajectory following could not be implemented so these buttons are redunda
 4.The bot in the current configuration runs slow so please be patient.
 
 ## Result
-![Alt Text](https://github.com/Noor1886/Robot-Dog/blob/main/robodog.gif)
+<img src="https://github.com/Noor1886/Robot-Dog/blob/main/robodog.gif"
