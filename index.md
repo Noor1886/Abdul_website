@@ -9,17 +9,13 @@
 
 ---
 [Cancer Detection using CNN]()
-
----
-[Project 3 Title](http://example.com/)
-
 ---
 
-### Category Name 2
+### Robotics and NLP
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Sentiment Analysis using NLTK and Transformers](http://example.com/)
+- [Robot Dog Simulation](http://example.com/)
+- [Motion Predictor using Machine Learning](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
