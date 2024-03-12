@@ -1,31 +1,26 @@
-## This can be your internal website page / project page
+# Lane Detection 
+## Image Prepossessing
+The following operations were performed before lane de-
+tection:
+1) Image undistortion using cv2.undistort.
+2) Image blurring using a Gaussian kernel of size 5 ×5.
+3) Thresholding the gray image to get a binary image.
+4) Obtained ROI, which is almost 55% of the image.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+## Parameters
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+1) BasePath - project folder 
+2) ImageFilePath - absolute path of the image files
+3) CamConfigFile - path where the .yml file is
+4) SaveFileName - file name for the saved video. Note: this path is relative to the BasePath
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+## Results
+### Computing results with geometric Computer Vision
+![alt](https://github.com/Noor1886/Lane-detect/blob/master/Results/lane_detection/lane_result_1.gif)
 
-### 2. Assess assumptions on which statistical inference will be based
+### Turn Prediction along with detection
+![alt](https://github.com/Noor1886/Lane-detect/blob/master/Results/lane_detection/lane_result_2.gif)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
