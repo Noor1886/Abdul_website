@@ -18,7 +18,7 @@
 
 - [Sentiment Analysis using NLTK and Transformers](http://example.com/)
 
-- [Robot Dog Simulation](http://example.com/)
+- [Robot Dog Simulation](/robo_dog.md)
   <img src="images/robot_dog_thumbnail.jpeg?raw=true"/>
 
 
