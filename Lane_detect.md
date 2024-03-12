@@ -17,10 +17,10 @@ tection:
 
 ## Results
 ### Computing results with geometric Computer Vision
-    <img src="images/lane_detect_thumbnail.jpeg?raw=true"/>
+<img src="images/lane_result_1.gif?raw=true"/>
 
 ### Turn Prediction along with detection
-![alt](https://github.com/Noor1886/Lane-detect/blob/master/Results/lane_detection/lane_result_2.gif)
+<img src="images/lane_result_2.gif?raw=true"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
