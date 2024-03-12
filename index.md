@@ -9,7 +9,9 @@
 
 ---
 [Cancer Detection using CNN]()
-<img src="images/CT_gastric_cancer.gif?raw=true"/>
+<a href="images/CT_gastric_cancer.gif" target="_blank">
+  <img src="images/CT_gastric_cancer.gif" alt="CT Gastric Cancer" width="200" height="150">
+</a>
 
 ---
 ## Robotics and NLP
