@@ -91,13 +91,13 @@ Open the `codes` directory
 ## Results
 
 The performance of the trained model will be evaluated using metrics such as accuracy, precision, and recall.
-![Alt Text](https://github.com/Noor1886/Motion-Predictor/blob/main/my_results/Figure_10(2%20layers).png)
+<img src="https://github.com/Noor1886/Motion-Predictor/blob/main/my_results/Figure_10(2%20layers).png?raw=true"/>
 
 
-![Alt Text](https://github.com/Noor1886/Motion-Predictor/blob/main/my_results/Figure_11(7%20layers).png)
+<img src="https://github.com/Noor1886/Motion-Predictor/blob/main/my_results/Figure_11(7%20layers).png?raw=true"/>
 
 
-![Alt Text](https://github.com/Noor1886/Motion-Predictor/blob/main/my_results/Figure_13.png)
+<img src="https://github.com/Noor1886/Motion-Predictor/blob/main/my_results/Figure_13.png?raw=true"/>
 
 
 ## Conclusion
