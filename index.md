@@ -8,7 +8,7 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Cancer Detection using CNN]()
 
 ---
 [Project 3 Title](http://example.com/)
