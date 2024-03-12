@@ -17,7 +17,7 @@
 ## Robotics and NLP
 
 - [Sentiment Analysis using NLTK and Transformers](https://nbviewer.org/github/Noor1886/Sentiment-Analysis-NLP/blob/main/Sentiment_Analysis_Transformers.ipynb)
-  <img src="images/robot_dog_thumbnail.jpeg?raw=true"/>
+  <img src="images/TransformerOvalInOut_thumbnail.gif?raw=true"/>
 
 
 - [Robot Dog Simulation](/robo_dog.md)
