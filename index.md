@@ -7,9 +7,7 @@
 [Lane Detection and Turn Prediction](/sample_page)
 
 
----
 [Cancer Detection using CNN]()
----
 
 ### Robotics and NLP
 
