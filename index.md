@@ -9,6 +9,7 @@
 
 ---
 [Cancer Detection using CNN]()
+<img src="images/CT_gastric_cancer.gif?raw=true"/>
 
 ---
 ## Robotics and NLP
