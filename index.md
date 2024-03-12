@@ -4,7 +4,7 @@
 
 ## Classical and Neural-Net based Computer Vision
 
-[Lane Detection and Turn Prediction](/Lane_detect)
+[Lane Detection and Turn Prediction](/Lane_detect.md)
 <img src="images/lane_detect_thumbnail.jpeg?raw=true"/>
 
 ---
